@@ -1,0 +1,12 @@
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\bin\Debug\net6.0\dllLIB.deps.json
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\bin\Debug\net6.0\dllLIB.dll
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\bin\Debug\net6.0\dllLIB.pdb
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\dllLIB.csproj.AssemblyReference.cache
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\dllLIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\dllLIB.AssemblyInfoInputs.cache
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\dllLIB.AssemblyInfo.cs
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\dllLIB.csproj.CoreCompileInputs.cache
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\dllLIB.dll
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\refint\dllLIB.dll
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\dllLIB.pdb
+C:\Users\valia\Desktop\dll\dllLIB\dllLIB\obj\Debug\net6.0\ref\dllLIB.dll
